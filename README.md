@@ -4,7 +4,7 @@ mkdir -p ~/wine/sources
 mkdir -p ~/wine/.wine
 cd ~/wine
 
-# Downlad XQARTZ https://dl.bintray.com/xquartz/downloads/XQuartz-2.7.8.dmg 
+# Downlad XQARTZ https://github.com/XQuartz/XQuartz/releases/download/XQuartz-2.7.8/XQuartz-2.7.8.dmg 
 # Run dmg and install XQARTZ 
 # DO NOT USE  > 2.7.8 (problem with video drivers)
 # Relogin
